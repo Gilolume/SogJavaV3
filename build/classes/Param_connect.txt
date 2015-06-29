@@ -1,0 +1,8 @@
+Exemple : "jdbc:mysql://localhost:3306/dev","ggierak","123456"
+---------------------------------------------------------------
+chemin =
+jdbc:mysql://localhost:3306/dev
+admin =
+ggierak
+mdp =
+123456
